@@ -1,4 +1,4 @@
-Lets play around, hold on.!
+Lets play around
 
 <!---
 johnkommas/johnkommas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
